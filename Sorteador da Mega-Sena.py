@@ -20,6 +20,7 @@ def sortear_numeros(qtd_sorteios):
 
 # Pede ao usuário a quantidade de sorteios desejada
 qtd_sorteios = int(input("\nQuantos sorteios você deseja realizar? "))
+print()
 
 # Chama a função para realizar os sorteios
 sortear_numeros(qtd_sorteios)
